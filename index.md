@@ -1,4 +1,4 @@
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
+<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/%E6%88%90%E4%BA%BA%E7%A4%BC%E5%8D%95%E4%BA%BA%E7%85%A7.jpg" width="33%">
 
 You can use the [editor on GitHub](https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
