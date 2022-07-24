@@ -1,10 +1,15 @@
+## Merlin Zou - Zou Honggang
+
+### Profile
 <img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/%E6%88%90%E4%BA%BA%E7%A4%BC%E5%8D%95%E4%BA%BA%E7%85%A7.jpg" width="33%">
+- Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
+- `Email`: zouhonggang19 [at] gmail.com <br>
+- `Interests`: Computer Vision, Computational Biology
 
 You can use the [editor on GitHub](https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Education
+- 2013.9-2016.7 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
