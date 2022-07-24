@@ -8,9 +8,9 @@ Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
 `Interests`: Computer Vision, Computational Biology
 
 ### Education
-<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/guokeda.jpg" width="33%">
-<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/shiyi.jpg" width="33%">
-<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/fuzhong.jpg" width="33%">
+<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/guokeda.png" width="33%">
+<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/shiyi.png" width="33%">
+<img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/fuzhong.png" width="33%">
 - 2019.9-2023.7 Undergraduate (CS) University of Chinese Academy of Sciences
 - 2016.9-2019.7 Senior middle school student Beijing National Day School (BNDS)
 - 2013.9-2016.7 Junior middle school student The High School Affiliated To Beijing Normal University
