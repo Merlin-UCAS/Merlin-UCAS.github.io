@@ -17,7 +17,7 @@ Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
 
 ### Experiences
 ```markdown
-To be written with the progress of my life
+To be written with the spanning of my life
 ```
 
 ### Link
