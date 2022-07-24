@@ -2,27 +2,22 @@
 
 ### Profile
 <img src="https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/%E6%88%90%E4%BA%BA%E7%A4%BC%E5%8D%95%E4%BA%BA%E7%85%A7.jpg" width="33%">
-- Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
-- `Email`: zouhonggang19 [at] gmail.com <br>
-- `Interests`: Computer Vision, Computational Biology
-
-You can use the [editor on GitHub](https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
+`Address`: No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049
+`Email`: zouhonggang19 [at] gmail.com <br>
+`Interests`: Computer Vision, Computational Biology
 
 ### Education
-- 2013.9-2016.7 
+- 2019.9-2023.7 Undergraduate (CS) University of Chinese Academy of Sciences
+- 2016.9-2019.7 Senior middle school student Beijing National Day School (BNDS)
+- 2013.9-2016.7 Junior middle school student The High School Affiliated To Beijing Normal University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Experiences
 ```markdown
-[Link](url) and ![Image](src)
+To be written with the progress of my life
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Link
+[UCAS](https://www.ucas.ac.cn/)
+[BNDS](http://www.bnds.cn/)
+[BJSDFZ](https://www.bjsdfz.com/)
