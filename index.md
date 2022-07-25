@@ -1,16 +1,16 @@
 ## Merlin Zou - Zou Honggang
 
 ### Profile
-`![portrait](images/zhaopian.jpg)` <br>
+![portrait](images/zhaopian.jpg) <br>
 Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
 `Address`: No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049 <br>
 `Email`: zouhonggang19 [at] gmail.com <br>
 `Interests`: Computer Vision, Computational Biology
 
 ### Education
-`![guokeda](images/guokeda.jpg)` <br>
-`![shiyi](images/shiyi.jpg)` <br>
-`![fuzhong](images/fuzhong.jpg)` <br>
+![guokeda](images/guokeda.jpg) <br>
+![shiyi](images/shiyi.jpg) <br>
+![fuzhong](images/fuzhong.jpg) <br>
 - 2019.9-2023.7 &emsp; Undergraduate (CS) &emsp; University of Chinese Academy of Sciences
 - 2016.9-2019.7 &emsp; Senior middle school student &emsp; Beijing National Day School (BNDS)
 - 2013.9-2016.7 &emsp; Junior middle school student &emsp; The High School Affiliated To Beijing Normal University
