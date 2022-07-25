@@ -1,7 +1,7 @@
 ## Merlin Zou - Zou Honggang
 
 ### Profile
-![portrait](https://github.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/zhaopian.jpg) <br>
+![portrait](https://raw.githubusercontent.com/Merlin-UCAS/Merlin-UCAS.github.io/blob/main/images/zhaopian.jpg) <br>
 Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
 `Address`: No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049 <br>
 `Email`: zouhonggang19 [at] gmail.com <br>
