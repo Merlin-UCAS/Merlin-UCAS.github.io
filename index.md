@@ -15,6 +15,11 @@ Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
 - 2016.9-2019.7 &emsp; Senior middle school student &emsp; Beijing National Day School (BNDS)
 - 2013.9-2016.7 &emsp; Junior middle school student &emsp; The High School Affiliated To Beijing Normal University
 
+### Awards
+```markdown
+To be written with the spanning of my life
+```
+
 ### Experiences
 ```markdown
 To be written with the spanning of my life
