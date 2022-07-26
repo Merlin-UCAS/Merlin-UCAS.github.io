@@ -2,7 +2,8 @@
 
 ### Profile
 <img src="images/zhaopian.jpg" width="33%"> <br>
-Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
+Zou Honggang (Merlin Zou) <br>
+currently as an undergraduate @ University of Chinese Academy of Sciences <br>
 `Address`: No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049 <br>
 `Email`: zouhonggang19 [at] gmail.com <br>
 `Interests`: Computer Vision, Computational Biology
