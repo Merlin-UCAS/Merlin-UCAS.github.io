@@ -20,6 +20,16 @@ Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
 - 2016.9-2019.7 Senior middle school student @ Beijing National Day School (BNDS)
 - 2013.9-2016.7 Junior middle school student @ The High School Affiliated To Beijing Normal University
 
+### Research
+```markdown
+To be written with the spanning of my life
+```
+
+### Selected Publications
+```markdown
+To be written with the spanning of my life
+```
+
 ### Awards
 ```markdown
 To be written with the spanning of my life
