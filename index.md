@@ -13,7 +13,8 @@ Zou Honggang (Merlin Zou) @ UCAS as a undergraduate currently <br>
   <img src="images/shiyi.jpg" width="33%"> <br>
   <img src="images/fuzhong.jpg" width="33%"> <br>
 </div>
-  
+
+| --- | --- | --- |
 | 2019.9-2023.7 | Undergraduate (CS) | University of Chinese Academy of Sciences |
 | 2016.9-2019.7 | Senior middle school student | Beijing National Day School (BNDS) |
 | 2013.9-2016.7 | Junior middle school student | The High School Affiliated To Beijing Normal University |
