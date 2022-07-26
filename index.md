@@ -1,9 +1,11 @@
 ## Merlin Zou - Zou Honggang
 
 ### Profile
-<img src="images/zhaopian.jpg" width="33%"> <br>
-Zou Honggang (Merlin Zou) <br>
-Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
+<div align=center>
+ <img src="images/zhaopian.jpg" width="33%"> <br>
+ Zou Honggang (Merlin Zou) <br>
+ Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
+</div>
  
 `Email` zouhonggang19 [at] gmail.com <br>
 `Interests` Computer Vision, Computational Biology <br>
