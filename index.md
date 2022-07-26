@@ -6,8 +6,8 @@ Zou Honggang (Merlin Zou) <br>
 Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
  
 `Email` zouhonggang19 [at] gmail.com <br>
-`Interests` Computer Vision, Computational Biology
-`Address` No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049 <br>
+`Interests` Computer Vision, Computational Biology <br>
+`Address` No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049
 
 ### Education
 <div align=center>
