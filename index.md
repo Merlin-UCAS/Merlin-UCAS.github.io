@@ -1,9 +1,7 @@
 # Merlin's Space
 
-## Merlin Zou - Zou Honggang
-
 <img src="images/zhaopian.jpg" width="33%"> <br>
-Zou Honggang (Merlin Zou) <br>
+Zou Honggang <br>
 Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
 Recommended to ICT,CAS for postgraduate study <br>
  
