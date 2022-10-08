@@ -8,9 +8,9 @@ Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
 Recommended to ICT,CAS for postgraduate study <br>
  
 ### Profile
-`Email` zouhonggang19 [at] gmail.com <br>
-`Interests` Computer Vision, Computational Biology <br>
-`Address` No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049
+`Email` &emsp; zouhonggang19 [at] gmail.com <br>
+`Interests` &emsp; Computer Vision, Computational Biology <br>
+`Address` &emsp; No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049
 
 ### Education
 <div align=center>
