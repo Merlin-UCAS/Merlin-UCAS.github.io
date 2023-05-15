@@ -19,8 +19,8 @@ Recommended to ICT,CAS for postgraduate study <br>
 </div>
 
 - 2019.9-2023.7 Undergraduate (majoring in CS) @ University of Chinese Academy of Sciences
-- 2016.9-2019.7 Senior middle school student @ Beijing National Day School
-- 2013.9-2016.7 Junior middle school student @ The High School Affiliated To Beijing Normal University
+- 2016.9-2019.7 Senior middle school student   @ Beijing National Day School
+- 2013.9-2016.7 Junior middle school student   @ The High School Affiliated to Beijing Normal University
 
 ### Research
 ```markdown
