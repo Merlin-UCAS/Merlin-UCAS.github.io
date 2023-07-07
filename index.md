@@ -2,8 +2,7 @@
 
 <img src="images/zhaopian.jpeg" width="33%"> <br>
 Zou Honggang <br>
-Currently as an undergraduate @ University of Chinese Academy of Sciences <br>
-Recommended to ICT,CAS for postgraduate study <br>
+Currently as an academic master candidate @Institute of Computing Technology, CAS <br>
  
 ### Profile
 `Email`&emsp;&emsp;&emsp;zouhonggang19 [at] gmail.com <br>
@@ -18,7 +17,8 @@ Recommended to ICT,CAS for postgraduate study <br>
   <img src="images/fuzhong.jpg" width="33%"> <br>
 </div>
 
-- 2019.9-2023.7 Undergraduate (majoring in CS) @ University of Chinese Academy of Sciences
+- 2023.9-now    Academic master candidate    @ Institute of Computing Technology, CAS
+- 2019.9-2023.7 Undergraduate majoring in CS @ University of Chinese Academy of Sciences
 - 2016.9-2019.7 Senior middle school student @ Beijing National Day School
 - 2013.9-2016.7 Junior middle school student @ The High School Affiliated to Beijing Normal University
 
