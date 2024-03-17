@@ -1,8 +1,7 @@
 # Merlin's Space
 
-<img src="images/zhaopian.jpeg" width="33%"> <br>
 Zou Honggang <br>
-Currently as an academic master candidate @Institute of Computing Technology, CAS <br>
+Currently as an academic master candidate @ Institute of Computing Technology, CAS <br>
  
 ### Profile
 `Email`&emsp;&emsp;&emsp;zouhonggang19 [at] gmail.com <br>
@@ -11,10 +10,10 @@ Currently as an academic master candidate @Institute of Computing Technology, CA
 
 ### Education
 <div align=center>
-  <img src="images/jisuansuo.jpg" width="33%"> <br>
-  <img src="images/guokeda.jpg" width="33%"> <br>
-  <img src="images/shiyi.jpg" width="33%"> <br>
-  <img src="images/fuzhong.jpg" width="33%"> <br>
+  <img src="images/jisuansuo.jpg" width="33%">(http://www.ict.ac.cn/) <br>
+  <img src="images/guokeda.jpg" width="33%">(https://www.ucas.ac.cn/) <br>
+  <img src="images/shiyi.jpg" width="33%">(http://www.bnds.cn/) <br>
+  <img src="images/fuzhong.jpg" width="33%">(https://www.bjsdfz.com/) <br>
 </div>
 
 - 2023.9-now    Academic master candidate    @ Institute of Computing Technology, CAS
@@ -22,10 +21,6 @@ Currently as an academic master candidate @Institute of Computing Technology, CA
 - 2016.9-2019.7 Senior middle school student @ Beijing National Day School
 - 2013.9-2016.7 Junior middle school student @ The High School Affiliated to Beijing Normal University
 
-### Research
-```markdown
-To be written with the spanning of my life
-```
 
 ### Selected Publications
 ```markdown
@@ -37,13 +32,7 @@ To be written with the spanning of my life
 To be written with the spanning of my life
 ```
 
-### Experiences
+### Patents
 ```markdown
 To be written with the spanning of my life
 ```
-
-### Link
-[中国科学院计算技术研究所](http://www.ict.ac.cn/)
-[中国科学院大学](https://www.ucas.ac.cn/)
-[北京市十一学校](http://www.bnds.cn/)
-[北京师范大学附属中学](https://www.bjsdfz.com/)
