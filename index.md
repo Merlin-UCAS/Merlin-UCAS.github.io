@@ -10,10 +10,10 @@ Currently as an academic master candidate @ Institute of Computing Technology, C
 
 ### Education
 <div align=center>
-  <img src="images/jisuansuo.jpg" width="33%">(http://www.ict.ac.cn/) <br>
-  <img src="images/guokeda.jpg" width="33%">(https://www.ucas.ac.cn/) <br>
-  <img src="images/shiyi.jpg" width="33%">(http://www.bnds.cn/) <br>
-  <img src="images/fuzhong.jpg" width="33%">(https://www.bjsdfz.com/) <br>
+  <img src="images/jisuansuo.jpg" width="33%"> <br>
+  <img src="images/guokeda.jpg" width="33%"> <br>
+  <img src="images/shiyi.jpg" width="33%"> <br>
+  <img src="images/fuzhong.jpg" width="33%"> <br>
 </div>
 
 - 2023.9-now    Academic master candidate    @ Institute of Computing Technology, CAS
@@ -36,3 +36,9 @@ To be written with the spanning of my life
 ```markdown
 To be written with the spanning of my life
 ```
+
+### Link
+[中国科学院计算技术研究所](http://www.ict.ac.cn/)
+[中国科学院大学](https://www.ucas.ac.cn/)
+[北京市十一学校](http://www.bnds.cn/)
+[北京师范大学附属中学](https://www.bjsdfz.com/)
